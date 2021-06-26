@@ -1,0 +1,12 @@
+export { default as Tab } from './tab/Tab';
+export { default as Main } from './main/Main';
+export { default as Title } from './title/Title';
+export { default as Button } from './button/Button';
+export { default as Error } from './error/Error';
+export { default as Loader } from './loader/Loader';
+export { default as Avatar } from './avatar/Avatar';
+export { default as NoItems } from './noItems/NoItems';
+export { default as CardList } from './cardList/CardList';
+export { default as PeopleList } from './peopleList/PeopleList';
+export { default as DataHandler } from './dataHandler/DataHandler';
+export { default as CompanyLogo } from './companyLogo/CompanyLogo';
